@@ -11,3 +11,5 @@ Each folder provides a solution and small relevant project with a short descript
 
 
 A lot more concepts to be added soon....
+
+So how this repo works is, each topic has its own branch that merges once the code is successful and without errors. 
